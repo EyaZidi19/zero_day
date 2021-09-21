@@ -1,3 +1,2 @@
 #!/bin/bash
-case 
-echo "Best School"
+echo "This School is so cool!"
